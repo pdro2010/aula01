@@ -1,1 +1,2 @@
-bem vindo
+bem vindo.
+isto é uma alteração.
